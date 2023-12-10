@@ -1,0 +1,30 @@
+body{
+    background-image: url(../img/ryan-plomp-76w_eDO1u1E-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-blend-mode: darken;
+    background-position-y: -800px;
+    background-size: cover;
+}
+
+#navbar{
+    height: 50px !important;
+    border-radius: 15px;
+    box-shadow: 2px 3px 24px 0px rgba(0,0,0,0.43);
+    -webkit-box-shadow: 2px 3px 24px 0px rgba(0,0,0,0.43);
+    -moz-box-shadow: 2px 3px 24px 0px rgba(0,0,0,0.43);
+}
+
+#logo{
+    margin-left: 15px !important;
+}
+
+.home-button{   
+    background: none;
+    border: none;
+
+}
+
+.home-button a i{
+    color: black;
+    font-size: 20px;
+}
